@@ -1,0 +1,10 @@
+spark:
+  spark_dir: /Users/shivamanand/tlx/spark-2.4.3-bin-hadoop2.7
+
+praw:
+  client_id: 28VligDAQgX1tJklmRgdNA
+  client_secret: qTHnpaZAqKcAtdiRj25tae9kebeEBw
+  user_agent: shivam01anand
+
+spotify:
+  
